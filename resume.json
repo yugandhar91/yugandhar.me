@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Yugandhar Veeramachaneni",
+    "label": "",
+    "picture": "",
+    "email": "hello@yugandhar.me",
+    "phone": "(812) 369-7137",
+    "website": "https://www.yugandhar.me",
+    "summary": "",
+    "location": {
+      "address": "5004 Amande Ave",
+      "postalCode": "75056",
+      "city": "Lewisvile",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "yugandharveeramachaneni",
+        "url": "https://www.linkedin.com/in/yugandharveeramachaneni/"
+      },
+      {
+        "network": "GitHub",
+        "username": "yugandhar91",
+        "url": "https://www.github.com/yugandhar91"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "NCR Corporation",
+      "position": "Software Engineer II",
+      "website": "https://www.ncr.com",
+      "startDate": "2016-6",
+      "endDate": null,
+      "summary": "As a DevOps engineer, worked on various automation stack technologies like Chef, Salt, Rundeck, Hasicorp Vault and Jenkins on Microsoft Azure",
+      "highlights": [
+        "Built the NCR automation stack from the ground up",
+        "Helped onboard multple products onto NCR SaaS pubic cloud platform",
+        "Brought down Sevice Delivery timeline from several days to few hours"
+      ]
+    },
+    {
+      "company": "Google",
+      "position": "Analyst - Trust & Safety",
+      "website": "https://www.google.com",
+      "startDate": "2013-7",
+      "endDate": "2014-7",
+      "summary": "Analyzed large data sets using Google technologies like Mapreduce, BigTable, Dremel and others to scope new filter ideas to handle invalid ad-clicks by deriving user intent from logs",
+      "highlights": [
+        "Reviewed over 3000 AdSense publisher accounts and appeals resulting in $2bn credits to advertisers",
+        "Worked with SafeBrowsing Ops team to detect a malware affecting 250+ AdSense accounts & $600k cost in invalid traffic",
+        "Proposed a proactive workflow for malware reviews in the AdSpam Ops team"
+      ]
+    },
+    {
+      "company": "Eduon e-Learning Private Limited",
+      "position": "Co-founder/CTO",
+      "website": "",
+      "startDate": "2012-6",
+      "endDate": "2013-7",
+      "summary": "Designed technology roadmap for the e-learning start-up, built the platform from scratch",
+      "highlights": [
+        "Operationalized one of the largest academic portals in India",
+        "Started the first live Internet TV for the students of Andhra Pradesh, India",
+        "Distibuted no cost academic material to rural students"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Amaravti Internet Exchange",
+      "position": "IT Architect",
+      "website": "https://amr-ix.net",
+      "startDate": "2017-11",
+      "endDate": null,
+      "summary": "A community Internet Exchange in Inda focused on dense interconnection between ISPs, telcos, content providers and academic institutions in the region",
+      "highlights": [
+        "Established the IX from the ground up",
+        "Liason with global Internet organizations like APNIC, PCH etc.",
+        "Motivate and train local ISPs and prospective IX members on interconnection and associated benefits"
+      ]
+    },
+    {
+      "organization": "Make A Difference (MAD)",
+      "position": "Teaching Volunteer",
+      "website": "https://www.makeadiff.in",
+      "startDate": "2011-10",
+      "endDate": "2012-03",
+      "summary": "Worked as an English teaching volunteer, helping the poor and deprived kids learn Cambridge curriculum English",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana University Blomington",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2014-8",
+      "endDate": "2016-5",
+      "gpa": "3.7",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Proficient",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Django",
+        "Chef",
+        "Microsoft Azure",
+        "Java",
+        "PHP",
+        "nginx",
+        "Linux Administration"
+      ]
+    },
+    {
+      "name": "Familiar",
+      "level": "",
+      "keywords": [
+        "Web Development",
+        "Windows Administration",
+        "Powershell",
+        "Networking (IP, BGP)"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Internet Technologies",
+      "keywords": [
+        "IP Transit",
+        "ISPs",
+        "Routing",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Privacy",
+      "keywords": [
+        "Ad networks",
+        "Security"
+      ]
+    }
+  ],
+  "references": []
+}
