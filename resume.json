@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "75056",
-      "city": "Lewisvile",
+      "city": "Lewisville",
       "countryCode": "US",
       "region": "TX"
     },
@@ -37,8 +37,8 @@
       "summary": "As a DevOps engineer, worked on various automation stack technologies like Chef, Salt, Rundeck, Hasicorp Vault and Jenkins on Microsoft Azure",
       "highlights": [
         "Built the NCR automation stack from the ground up",
-        "Helped onboard multple products onto NCR SaaS pubic cloud platform",
-        "Brought down Sevice Delivery timeline from several days to few hours"
+        "Helped onboard multiple products onto NCR SaaS public cloud platform",
+        "Brought down Service Delivery timeline from several days to few hours"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "website": "https://www.google.com",
       "startDate": "2013-7",
       "endDate": "2014-7",
-      "summary": "Analyzed large data sets using Google technologies like Mapreduce, BigTable, Dremel and others to scope new filter ideas to handle invalid ad-clicks by deriving user intent from logs",
+      "summary": "Analyzed large data sets using Google technologies like MapReduce, BigTable, Dremel and others to scope new filter ideas to handle invalid ad-clicks by deriving user intent from logs",
       "highlights": [
         "Reviewed over 3000 AdSense publisher accounts and appeals resulting in $2bn credits to advertisers",
         "Worked with SafeBrowsing Ops team to detect a malware affecting 250+ AdSense accounts & $600k cost in invalid traffic",
